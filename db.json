@@ -1,0 +1,45 @@
+{
+    "categories": [
+        { 
+            "id": 1,
+            "title": "Ação",
+            "movies":[
+                {"id": "1", "url": "https://img1.ibxk.com.br/2015/11/12/12134915138723.jpg?w=700", "name": "Assassin’s Creed"},
+                {"id": "2", "url": "https://bc.marfeelcache.com/statics/i/ps/www.meups4.com.br/wp-content/uploads/2019/04/God-of-War.jpg?width=1200&enable=upscale", "name": "God of War"},
+                {"id": "3", "url": "https://ksassets.timeincuk.net/wp/uploads/sites/55/2017/07/Screen-Shot-2017-07-03-at-11.30.38.png", "name": "Iron Man"},
+                {"id": "4", "url": "https://www.thewrap.com/wp-content/uploads/2016/11/Chris-Evans-Captain-America-Trilogy.jpg", "name": "Capitain American"},
+                {"id": "5", "url": "https://4.bp.blogspot.com/-7el9CZHSc9M/WVU1yfYC2_I/AAAAAAAAAEI/3u65kYg51CQhi0zk59ObO5_xzm0bt0IAwCLcBGAs/s1600/Spidey-02.jpg", "name": "Spider Man"},
+                {"id": "6", "url": "https://img1.ibxk.com.br/2015/11/12/12134915138723.jpg?w=700", "name": "Assassin’s Creed"},
+                {"id": "7", "url": "https://img1.ibxk.com.br/2015/11/12/12134915138723.jpg?w=700", "name": "Assassin’s Creed"},
+                {"id": "8", "url": "https://img1.ibxk.com.br/2015/11/12/12134915138723.jpg?w=700", "name": "Assassin’s Creed"},
+                {"id": "9", "url": "https://img1.ibxk.com.br/2015/11/12/12134915138723.jpg?w=700", "name": "Assassin’s Creed"},
+                {"id": "10", "url": "https://img1.ibxk.com.br/2015/11/12/12134915138723.jpg?w=700", "name": "Assassin’s Creed"},
+                {"id": "11", "url": "https://img1.ibxk.com.br/2015/11/12/12134915138723.jpg?w=700", "name": "Assassin’s Creed"}
+            ] 
+        },
+        { 
+            "id": 2,
+            "title": "Comédia",
+            "movies":[
+                {"id": "1", "url": "http://11jardas.com/wp-content/uploads/2014/01/Adam_Sandler_in_The_Longest_Yard_Wallpaper_1_800.jpg", "name": "Golpe Baixo"},
+                {"id": "2", "url": "https://images-na.ssl-images-amazon.com/images/I/81lnE8Sf6ZL._RI_.jpg", "name": "My Wife and Kids"},
+                {"id": "3", "url": "http://supercinemaup.com/wp-content/uploads/2013/08/gente.jpg", "name": "Gente Grande"},
+                {"id": "4", "url": "https://www.devotudoaocinema.com.br/content/uploads/2016/06/dumb_a.jpg", "name": "Debi e Loid"},
+                {"id": "5", "url": "https://4.bp.blogspot.com/-7el9CZHSc9M/WVU1yfYC2_I/AAAAAAAAAEI/3u65kYg51CQhi0zk59ObO5_xzm0bt0IAwCLcBGAs/s1600/Spidey-02.jpg", "name": "Spider Man"},
+                {"id": "6", "url": "https://img1.ibxk.com.br/2015/11/12/12134915138723.jpg?w=700", "name": "Assassin’s Creed"},
+                {"id": "7", "url": "https://img1.ibxk.com.br/2015/11/12/12134915138723.jpg?w=700", "name": "Assassin’s Creed"}
+            ] 
+        },
+        { 
+            "id": 3,
+            "title": "Anime",
+            "movies":[
+                {"id": "1", "url": "http://sm.ign.com/ign_br/screenshot/default/we-can_same.jpg", "name": "One Piece"},
+                {"id": "2", "url": "https://vignette.wikia.nocookie.net/nerddragon/images/1/1a/Naruto_Universo.png/revision/latest?cb=20180120190000&path-prefix=pt-br", "name": "Naruto Shippuden"},
+                {"id": "3", "url": "https://static.quizur.com/i/b/553d6108b96333.00077422553d61089cedf5.71190563.jpg", "name": "Hunter x Hunter"},
+                {"id": "4", "url": "https://i0.wp.com/temalguemassistindo.com.br/wp-content/uploads/2019/03/one-punch-man-data-segunda-temporada.jpg?zoom=2.625&fit=1360%2C718&ssl=1&resize=1360%2C718", "name": "One Punch Man"},
+                {"id": "5", "url": "https://www.comboinfinito.com.br/principal/wp-content/uploads/2017/11/my-hero-academia-game.jpg", "name": "Boku no Hero"}
+            ] 
+        }
+    ]
+}
